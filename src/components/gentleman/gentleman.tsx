@@ -1,7 +1,6 @@
 import { GentlemanModel } from "../../models/gentleman";
 
 export function Gentleman({
-  id,
   name,
   status,
   profession,
