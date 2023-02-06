@@ -39,4 +39,7 @@ alternativeText: "Churchs pointing at you",
 selected: true,
 },
 ];
-.
+
+## Dudas:
+
+- Hecho npm run build antes de hacer push, pero Netlify no esta tomando los update.
