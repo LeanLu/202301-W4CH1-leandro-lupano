@@ -6,6 +6,7 @@ export function Info() {
     <ul className="gentlemen">
       {GENTLEMEN.map((item) => (
         <Gentleman
+          key={item.id}
           id={item.id}
           name={item.name}
           status={item.status}

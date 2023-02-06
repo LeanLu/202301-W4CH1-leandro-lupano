@@ -11,7 +11,7 @@ export function Gentleman({
   selected,
 }: GentlemanModel) {
   return (
-    <li className="gentleman">
+    <li className={"gentleman" + id}>
       <div className="gentleman__avatar-container">
         <img
           className="gentleman__avatar"
